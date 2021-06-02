@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708182383614",
+    "project_id": "rapsodia-de-sabores-b6835",
+    "storage_bucket": "rapsodia-de-sabores-b6835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708182383614:android:bc1d26725215189d157eaf",
+        "android_client_info": {
+          "package_name": "com.rapsodia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708182383614-t4t8vtpak0b5hknu5vf85tlse7mk0m57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLPrfSYeFkaSW2SK6RTR1JXTTkFdF6O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708182383614-t4t8vtpak0b5hknu5vf85tlse7mk0m57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
